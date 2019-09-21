@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066899471863",
+    "firebase_url": "https://taskforinternship.firebaseio.com",
+    "project_id": "taskforinternship",
+    "storage_bucket": "taskforinternship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066899471863:android:345067b7496a066d8142f2",
+        "android_client_info": {
+          "package_name": "com.example.taskforinternship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066899471863-ojk6bqu9lm8i1kv93el6t906lq5eb6b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvBvaLh3OBtce7adhYNLGZUD02UnQdq_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066899471863-ojk6bqu9lm8i1kv93el6t906lq5eb6b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
